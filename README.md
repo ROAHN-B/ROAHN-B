@@ -31,18 +31,10 @@ Here are a few projects I'm currently working on or am proud of:
 
 ---
 
-## 📈 GitHub Stats
-
-You can see my activity and contributions below:
-
-[![ROAHN-B's GitHub stats](https://github-readme-stats.vercel.app/api?username=ROAHN-B&show_icons=true&theme=vue)](https://github.com/ROAHN-B/github-readme-stats)
-
----
-
 ## 📬 Let's Connect
 
 I'm always open to discussing new projects, collaboration opportunities, or just sharing knowledge. Feel free to reach out!
 
 * **[LinkedIn Profile](https://www.linkedin.com/in/rohan-belsare-bb6a4b312/)**
-* **Email:** [Your Email Address] (Optional, but recommended for professional contact)
+* **Email:** rohanbelsare113@gmail.com
 * **GitHub:** Follow me here for my latest work!
