@@ -2,7 +2,7 @@
 
 I'm a passionate Bachelor’s student currently pursuing **Electronics and Computer Engineering** at **Walchand Institute of Technology, Solapur**.
 
-I am focused on building practical solutions and honing my skills across various domains, particularly in areas that bridge hardware and software.
+I am focused on building practical solutions and honing my skills across various domains, particularly in areas of backend development and Agentic AI.
 
 ---
 
@@ -10,7 +10,7 @@ I am focused on building practical solutions and honing my skills across various
 
 | Area | Technologies |
 | :--- | :--- |
-| **Programming Languages** | C, C++, Python, TypeScript |
+| **Programming Languages** | C, C++, Python, JAVA |
 | **Web Development** | HTML, CSS, JavaScript, React |
 | **Tools & Platforms** | Git, GitHub, VS Code |
 | **Engineering** | Electronics, IoT, Embedded Systems  |
