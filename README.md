@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Rohan Belsare!
+#Hi there, I'm Rohan Belsare!
 
 I'm a passionate Bachelor’s student currently pursuing **Electronics and Computer Engineering** at **Walchand Institute of Technology, Solapur**.
 
