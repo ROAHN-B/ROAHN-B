@@ -12,7 +12,7 @@ I am focused on building practical solutions and honing my skills across various
 | :--- | :--- |
 | **Programming Languages** | C, C++, Python, JAVA |
 | **Web Development** | HTML, CSS, JavaScript, React |
-| **Tools & Platforms** | Git, GitHub, VS Code |
+| **Tools & Platforms** | Git, GitHub, VS Code, EasyEDA |
 | **Engineering** | AI/ML and  IoT  |
 
 ---
